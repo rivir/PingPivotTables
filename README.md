@@ -1,6 +1,7 @@
 # PingPivotTables
 Use Powershell Test-Connection to have Servers pinging servers and display ping times in a table.
-PS Test-Connection + Pivot Tables + HTML Export (jquery.hottie.js HeatMap)
+
+- PS Test-Connection + Pivot Tables + HTML Export (jquery.hottie.js HeatMap)
 
 <img src="screenshot.png" align="center" />
 
